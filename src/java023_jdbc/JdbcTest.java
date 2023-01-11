@@ -19,8 +19,7 @@ public class JdbcTest {
 		try {
 			//1. 드라이버 로딩
 			Class.forName("oracle.jdbc.OracleDriver");
-			
-			
+		
 			//2. DB서버 연결
 			String url = "jdbc:oracle:thin:@127.0.0.1:1521:xe";
 			String username = "hr";
@@ -72,6 +71,7 @@ public class JdbcTest {
 				} catch (SQLException e) {
 					e.printStackTrace();
 				}
+			
 		}
 
 	}
