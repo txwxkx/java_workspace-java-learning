@@ -1,0 +1,9 @@
+INDEX VERSION 1.131
+/Users/txwxkx/k_digital/java_workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/966056236.index
+/webdemo02/src
+/Users/txwxkx/k_digital/java_workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1318316474.index
+/webdemo02/src
+/Users/txwxkx/k_digital/java_workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/69640700.index
+/webdemo02/src
+/Users/txwxkx/k_digital/java_workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2817543311.index
+/webdemo02/src

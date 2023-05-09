@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+/Users/txwxkx/k_digital/java_workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+316480741.index
